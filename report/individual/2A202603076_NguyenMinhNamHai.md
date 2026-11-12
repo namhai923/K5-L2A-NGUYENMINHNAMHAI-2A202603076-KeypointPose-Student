@@ -14,7 +14,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - Máy: hệ điều hành Windows 11 Pro · RAM 15.8 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
 - Giờ bắt đầu: 16:30
-- Giờ kết thúc: 19:30
+- Giờ kết thúc: 19:00
 
 ## 1. Kiểm tra label (CP0)
 
@@ -219,4 +219,6 @@ Kết quả `src/check_submission.py` cho `HoVaTen_bonus_persons.zip`:
 
 ## 9. Tài liệu tham khảo và công cụ AI đã dùng
 
-...
+| Công cụ | Dùng để làm gì |
+|---|---|
+| Claude (Anthropic, model Claude Sonnet 5.5) | soạn nháp các mục 0–8 của báo cáo |
